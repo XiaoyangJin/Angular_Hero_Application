@@ -8,12 +8,12 @@ import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HerosComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
+    HerosComponent,
     AppRoutingModule
   ],
   providers: [],
