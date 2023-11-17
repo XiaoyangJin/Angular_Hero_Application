@@ -6,6 +6,8 @@ import {
 } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
+import { HeroDetailComponent } from '../hero-detail/hero-detail.component';
+
 @Component({
   standalone: true,
   selector: 'app-heros',
@@ -15,7 +17,8 @@ import { FormsModule } from '@angular/forms';
     FormsModule,
     NgIf,
     NgFor,
-    UpperCasePipe
+    UpperCasePipe,
+    HeroDetailComponent
   ],
 })
 export class HerosComponent {
