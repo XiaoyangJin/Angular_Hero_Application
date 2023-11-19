@@ -9,13 +9,13 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HerosComponent,
+    HeroDetailComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    HerosComponent,
-    HeroDetailComponent,
     AppRoutingModule
   ],
   providers: [],

@@ -9,17 +9,9 @@ import { FormsModule } from '@angular/forms';
 import { HeroDetailComponent } from '../hero-detail/hero-detail.component';
 
 @Component({
-  standalone: true,
   selector: 'app-heros',
   templateUrl: './heros.component.html',
   styleUrls: ['./heros.component.css'],
-  imports: [
-    FormsModule,
-    NgIf,
-    NgFor,
-    UpperCasePipe,
-    HeroDetailComponent
-  ],
 })
 export class HerosComponent {
   heroes: Hero[] = [];
@@ -30,5 +22,8 @@ export class HerosComponent {
   constructor(private heroService: HeroService) { }
   getHeroes(): void {
     this.heroes = this.heroService.getHeroes();
+  }
+  ngOnInit(): void {
+    this.getHeroes();
   }
 }
