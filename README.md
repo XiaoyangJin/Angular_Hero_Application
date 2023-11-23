@@ -6,10 +6,10 @@
 3. [The Dashboard view and the most heroic heroes:](#The Dashboard view and the most heroic heroes:)
 4. [Video Walkthrough:](#Video Walkthrough:)
 ## How to tun this project on your own:  
-Run the project without download it using Stackblitz  
+Run the project without download it using Stackblitz
 Or download and unzip this project, then cd to the location and run [ng serve], then type http://localhost:4200/dashboard to check it!
 
-## This application including these following functions:  
+## This application including these following functions:
    - Use Angular directives to show and hide elements and display lists of hero data.
    - Create Angular components to display hero details and show an array of heroes.
    - Use one-way data binding for read-only data.
