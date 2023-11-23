@@ -13,10 +13,14 @@ export class HeroService {
   constructor(private http: HttpClient,
     private messageService: MessageService) { }
 
+  // getHeroes(): Observable<Hero[]> {
+  //   const heroes = of(HEROES);
+  //   this.messageService.add('HeroService: fetched heroes');
+  //   return heroes;
+  // }
+  /** GET heroes from the server */
   getHeroes(): Observable<Hero[]> {
-    const heroes = of(HEROES);
-    this.messageService.add('HeroService: fetched heroes');
-    return heroes;
+    return this.http.get<Hero[]>(this.heroesUrl)
   }
 
   getHero(id: number): Observable<Hero> {
