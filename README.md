@@ -15,3 +15,6 @@ Or download and unzip this project, then cd to the location and run [ng serve], 
    - Use routing to navigate among different views and their components.
 ## The Dashboard view and the most heroic heroes:
 ![image](https://github.com/XiaoyangJin/Angular_Hero_Application/assets/90944062/709da6c7-b903-4426-868a-774d7ad34f63)
+
+## The gif show:
+https://i.imgur.com/eXnlwlv.gif
