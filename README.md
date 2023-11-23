@@ -1,7 +1,5 @@
 # Angular_Hero_Application  
 ## Table of Contents
-1. [How to tun this project on your own:](#How to tun this project on your own)
-
 1. [How to run this project on your own:](#How-to-run-this-project-on-your-own:)
 
 2. [This application including these following functions:](#This application including these following functions:)
