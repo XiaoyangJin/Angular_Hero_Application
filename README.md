@@ -1,7 +1,7 @@
 # Angular_Hero_Application  
-## The Dashboard view and the most heroic heroes:  
-Run the project without download it using Stackblitz
-[just replace github url with stackblitz url : replace https://github.com/ with https://stackblitz.com/github/]
+## How to tun this project on your own:  
+Run the project without download it using Stackblitz  
+Or download and unzip this project, then cd to the location and run [ng serve], then type http://localhost:4200/dashboard to check it!
 
 ## This application including these following functions:  
    - Use Angular directives to show and hide elements and display lists of hero data.
