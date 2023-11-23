@@ -1,10 +1,10 @@
 # Angular_Hero_Application  
 ## Table of Contents
-1. [How to tun this project on your own:](#How to tun this project on your own)
+1. [How to tun this project on your own](#How to tun this project on your own:)
 
-2. [This application including these following functions:](#This application including these following functions)
-3. [The Dashboard view and the most heroic heroes:](#The Dashboard view and the most heroic heroes)
-4. [Video Walkthrough:](#Video Walkthrough)
+2. [This application including these following functions](#This application including these following functions:)
+3. [The Dashboard view and the most heroic heroes](#The Dashboard view and the most heroic heroes:)
+4. [Video Walkthrough](#Video Walkthrough:)
 ## How to tun this project on your own:  
 Run the project without download it using Stackblitz  
 Or download and unzip this project, then cd to the location and run [ng serve], then type http://localhost:4200/dashboard to check it!
