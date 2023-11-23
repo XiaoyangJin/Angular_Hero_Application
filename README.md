@@ -1,4 +1,8 @@
-# Angular_Hero_Application
+# Angular_Hero_Application  
+## The Dashboard view and the most heroic heroes:  
+Run the project without download it using Stackblitz
+[just replace github url with stackblitz url : replace https://github.com/ with https://stackblitz.com/github/]
+
 ## This application including these following functions:  
    - Use Angular directives to show and hide elements and display lists of hero data.
    - Create Angular components to display hero details and show an array of heroes.
