@@ -2,6 +2,9 @@
 ## Table of Contents
 1. [How to tun this project on your own:](#How to tun this project on your own:)
 
+2. [Projects Introduction](#Projects-Introduction)
+1. [How to tun this project on your own:](#How to tun this project on your own:)
+
 2. [This application including these following functions:](#This application including these following functions:)
 3. [The Dashboard view and the most heroic heroes:](#The Dashboard view and the most heroic heroes:)
 4. [Video Walkthrough:](#Video Walkthrough:)
