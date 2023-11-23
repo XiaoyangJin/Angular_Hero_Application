@@ -17,4 +17,4 @@ Or download and unzip this project, then cd to the location and run [ng serve], 
 ![image](https://github.com/XiaoyangJin/Angular_Hero_Application/assets/90944062/709da6c7-b903-4426-868a-774d7ad34f63)
 
 ## The gif show:
-https://i.imgur.com/eXnlwlv.gif
+<img src='https://i.imgur.com/eXnlwlv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
